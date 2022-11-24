@@ -1,0 +1,12 @@
+{
+    "inter_face": [
+      {
+        "text": "Mobile Network",
+        "value": "usb0"
+      },
+      {
+        "text": "Wi-Fi",
+        "value": "wlan0"
+      }
+    ]
+  }

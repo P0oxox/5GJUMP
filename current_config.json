@@ -1,0 +1,1 @@
+{"mode": "fo", "ping_target": "8.8.8.8", "fo": {"failback": true, "main_iface": "usb0", "sec_iface": "wlan0", "backup_iface": "", "detection_mode": "latency", "latency": {"threshold": "1", "detection_period": "2"}}, "single": {"main_iface": "usb0"}, "status": true}
